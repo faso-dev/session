@@ -1,7 +1,6 @@
 {
     "name": "instantech/session",
     "description": "This package is a simple encapsulation of PHP natif $_SESSION to Object Representation",
-    "type": "metapackage",
     "license": "MIT",
     "authors": [
         {
